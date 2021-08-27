@@ -1,4 +1,4 @@
-albumentations
+imgaug
 opencv-python
 pillow
 numpy 
