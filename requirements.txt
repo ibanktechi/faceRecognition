@@ -4,3 +4,6 @@ pillow
 numpy
 matplotlib
 albumentations
+tensorflow
+keras
+pytorch
