@@ -6,4 +6,5 @@ matplotlib
 albumentations
 tensorflow
 keras
-pytorch
+torch
+torchvision
